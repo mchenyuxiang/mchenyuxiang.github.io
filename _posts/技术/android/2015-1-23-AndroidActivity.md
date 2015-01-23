@@ -25,7 +25,7 @@ description: 安卓activity学习
 - 暂停
 
 ### Activity生命周期的七个方法
-![Alt text](www.playdba.com/public/upload/1421802290497.png)
+![Alt text](/public/upload/android/1421802290497.png)
 
 ### Activity中的数据传递
 
