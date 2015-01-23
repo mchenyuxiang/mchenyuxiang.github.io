@@ -21,7 +21,7 @@ rss_url: /pages/atom.xml
 
 # gavatar头像及Favicon
 gavatar: /public/upload/touxiang.jpg
-favicon: /public/upload/webtitle.png
+favicon: /public/upload/touxiang.jpg
 
 # google analytics 设置
 ga:
