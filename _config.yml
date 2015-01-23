@@ -7,16 +7,16 @@ kramdown:
 
 # 作者信息
 author: 
-  name: 闫肃
-  email: suyan0830@gmail.com
-  link: http://yansu.org
-  weibo: http://weibo.com/yansu0711
-  github: http://github.com/suyan
+  name: 陈宇翔
+  email: csyuxiang1988@gmail.com
+  link: http://playdba.com
+  weibo: http://weibo.com/mchenyuxiang
+  github: http://github.com/mchenyuxiang
 
 # 站点信息
-title: 闫肃的博客 
-description: 闫肃的博客
-url: http://yansu.org
+title: 陈宇翔的博客 
+description: 陈宇翔的博客
+url: http://playdba.com
 rss_url: /pages/atom.xml
 
 # gavatar头像及Favicon
@@ -25,20 +25,21 @@ favicon: http://7u2ho6.com1.z0.glb.clouddn.com/favicon.ico
 
 # google analytics 设置
 ga:
-  id: UA-54767140-1
-  url: yansu.org
+  id: UA-58840215-1
+  url: playdba.com
 
 # disqus 设置
 disqus:
-  shortname: suyan-zh
+  shortname: mchenyuxiang
 
 # 主题设置，自动激活某个标签
 active: 技术
 
 # 首页除了最新文章外显示分类
 cates: 
-  - Python
-  - OpenStack
+  - Database
+  - Android
+  - IOS
 
 # 中文本地化
 locals:
