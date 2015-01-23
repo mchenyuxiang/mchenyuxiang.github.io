@@ -20,8 +20,8 @@ url: http://playdba.com
 rss_url: /pages/atom.xml
 
 # gavatar头像及Favicon
-gavatar: http://7u2ho6.com1.z0.glb.clouddn.com/gavatar.png
-favicon: http://7u2ho6.com1.z0.glb.clouddn.com/favicon.ico
+gavatar: /public/upload/touxiang.jpg
+favicon: /public/upload/webtitle.png
 
 # google analytics 设置
 ga:
