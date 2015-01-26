@@ -7,7 +7,7 @@ keywords: android,移动开发
 description: 安卓service学习
 ---
 
-##Android四大组件学习-service
+## Android四大组件学习-service
 @(android)
 
 Service是后台运行的，是不可见的程序，对用户来说是透明的。
