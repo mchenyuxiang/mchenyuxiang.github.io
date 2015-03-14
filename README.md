@@ -1,6 +1,6 @@
 ### 我的博客
 
-地址：[http://playdba.com](http://playdba.com)
+地址：[http://www.playdba.com](http://www.playdba.com)
 模板参考：[yansu的博客](http://yansu.org)
 ### 安装说明
 
