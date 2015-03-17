@@ -7,7 +7,7 @@ keywords: android,移动开发
 description: 安卓Intent学习
 ---
 
-##Android用户布局
+
 @(android)
 
 ###布局说明

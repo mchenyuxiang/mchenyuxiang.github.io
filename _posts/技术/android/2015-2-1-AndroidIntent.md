@@ -7,7 +7,7 @@ keywords: android,移动开发
 description: 安卓Intent学习
 ---
 
-## Android应用核心-Intent
+
 @(android)
 
 ### Intent对象介绍以及IntentFilter概念

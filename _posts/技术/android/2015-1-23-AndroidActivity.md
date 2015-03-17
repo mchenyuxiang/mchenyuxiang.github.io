@@ -7,7 +7,7 @@ keywords: android,移动开发
 description: 安卓activity学习
 ---
 
-## Android四大组件学习-activity
+
 @(android)
 
 ### Android四大基本组件
