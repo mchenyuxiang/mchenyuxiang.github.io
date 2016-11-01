@@ -1,6 +1,6 @@
 ---
 layout: post
-title: python first
+title: 笨办法学python第一天
 category: 技术
 tags: Python
 keywords: python,脚本语言
