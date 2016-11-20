@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 笨办法学python第三天天
+title: 笨办法学python第三天
 category: 技术
 tags: Python
 keywords: python,脚本语言
